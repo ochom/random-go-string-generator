@@ -1,4 +1,4 @@
-# random-string-generator
+# random-go-string-generator
 
 Regex string generator
 
@@ -26,4 +26,3 @@ $ ./cmd/main <regex>
 $ ./cmd/main "/[a-z]{3,5}/"
 vlbz
 ```
-# random-go-string-generator
